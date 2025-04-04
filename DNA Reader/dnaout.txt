@@ -1,0 +1,61 @@
+null Name
+Nucleotides: CURE FOR CANCER PROTEIN
+Nuc. Counts: [1, 3, 0, 1]
+Total Mass%: [22.9, 56.7, 0.0, 18.9] of 593.5
+Codons List:[CUR, E F, OR , CAN, CER,  PR, OTE]
+Is Protein?: NO
+Region name: ATGCCACTATGGTAG
+Nucleotides: CAPTAIN PICARD HAIR GROWTH PROTEIN
+Nuc. Counts: [4, 2, 1, 3]
+Total Mass%: [42.2, 17.4, 8.7, 26.1] of 1289.2
+Codons List:[CAP, TAI, N P, ICA, RD , HAI, R G, ROW, TH , PRO, TEI]
+Is Protein?: NO
+Region name: ATgCCAACATGgATGCCcGATAtGGATTgA
+Nucleotides: BOGUS PROTEIN
+Nuc. Counts: [0, 0, 1, 1]
+Total Mass%: [0.0, 0.0, 40.6, 40.6] of 276.2
+Codons List:[BOG, US , PRO, TEI]
+Is Protein?: NO
+Region name: CCATt-AATgATCa-CAGTt
+Nucleotides: MICHAEL JORDAN MAD HOPS PROTEIN
+Nuc. Counts: [3, 1, 0, 1]
+Total Mass%: [63.7, 17.5, 0.0, 17.5] of 641.6
+Codons List:[MIC, HAE, L J, ORD, AN , MAD,  HO, PS , PRO, TEI]
+Is Protein?: NO
+Region name: ATgAG-ATC-CgtgatGTGgg-aT-CCTa-CT-CATTaa
+Nucleotides: PARIS HILTON PHONY PROTEIN
+Nuc. Counts: [1, 0, 0, 2]
+Total Mass%: [35.3, 0.0, 0.0, 58.2] of 385.3
+Codons List:[PAR, IS , HIL, TON,  PH, ONY,  PR, OTE]
+Is Protein?: NO
+Region name: AtgC-CaacaTGGATGCCCTAAG-ATAtgGATTagtgA
+Nucleotides: JIMI HENDRIX GUITAR TALENT PROTEIN
+Nuc. Counts: [2, 0, 1, 4]
+Total Mass%: [29.5, 0.0, 12.2, 48.6] of 921.8
+Codons List:[JIM, I H, END, RIX,  GU, ITA, R T, ALE, NT , PRO, TEI]
+Is Protein?: NO
+Region name: atgataattagttttaatatcaga-ctgtaa
+Nucleotides: ADMIRAL GRACE MURRAY HOPPER PROTEIN
+Nuc. Counts: [4, 1, 1, 1]
+Total Mass%: [58.7, 12.1, 12.1, 12.1] of 927.9
+Codons List:[ADM, IRA, L G, RAC, E M, URR, AY , HOP, PER,  PR, OTE]
+Is Protein?: NO
+Region name: ATGC-AATT--GC-----TCGA--------TTAG
+Nucleotides: TYLER DURDEN'S BRAIN PROTEIN
+Nuc. Counts: [1, 0, 0, 2]
+Total Mass%: [35.3, 0.0, 0.0, 58.2] of 385.3
+Codons List:[TYL, ER , DUR, DEN, 'S , BRA, IN , PRO, TEI]
+Is Protein?: NO
+Region name: ATGATAcctatgagtaaTGTGGACCatatccaaACTATAGGCATtgtcggACCAACGATcgattggtTATACTGA
+Nucleotides: MINI ME GROWTH HORMONE
+Nuc. Counts: [0, 0, 1, 1]
+Total Mass%: [0.0, 0.0, 40.6, 40.6] of 276.2
+Codons List:[MIN, I M, E G, ROW, TH , HOR, MON]
+Is Protein?: NO
+Region name: AtGgGaCGCTgA
+Nucleotides: NYAN CAT PROTEIN
+Nuc. Counts: [2, 1, 0, 2]
+Total Mass%: [43.1, 17.7, 0.0, 35.5] of 631.6
+Codons List:[NYA, N C, AT , PRO, TEI]
+Is Protein?: NO
+
